@@ -28,6 +28,8 @@ A full-stack medical supply chain application with multi-role authentication and
 
 **Tech:** React, TypeScript, Spring Boot, Spring Security, JWT, MySQL
 
+🔗 [Live Demo](https://rx-chain.vercel.app/login)
+
 ### 🌐 Social Platform
 A full-stack social media platform with user authentication, JWT security, feed functionality, and a React-based frontend.
 
