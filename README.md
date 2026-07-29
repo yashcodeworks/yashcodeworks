@@ -18,13 +18,22 @@ I enjoy learning new technologies, solving problems, and developing scalable and
     </td>
     <td align="center">
       <h3>⚙️ Backend</h3>
-      Java • Spring Boot • Spring Security<br>
-      REST APIs • Hibernate • JPA • JDBC
+      Java<br>
+      Spring Boot<br>
+      Spring Security<br>
+      REST APIs<br>
+      Hibernate<br>
+      JPA<br>
+      JDBC
     </td>
     <td align="center">
       <h3>🎨 Frontend</h3>
-      React.js • JavaScript • TypeScript<br>
-      HTML • CSS • Bootstrap
+      React.js<br>
+      JavaScript<br>
+      TypeScript<br>
+      HTML<br>
+      CSS<br>
+      Bootstrap
     </td>
   </tr>
 </table>
