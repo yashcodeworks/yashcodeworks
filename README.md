@@ -12,28 +12,36 @@ I enjoy learning new technologies, solving problems, and developing scalable and
 
 <table>
   <tr>
-    <td align="center">
-      <h3>🗄️ Database</h3>
-      MySQL
-    </td>
-    <td align="center">
+    <td valign="top" width="33%">
       <h3>⚙️ Backend</h3>
-      Java<br>
-      Spring Boot<br>
-      Spring Security<br>
-      REST APIs<br>
-      Hibernate<br>
-      JPA<br>
-      JDBC
+      <ul>
+        <li>Java</li>
+        <li>Spring Boot</li>
+        <li>Spring Security</li>
+        <li>REST APIs</li>
+        <li>Hibernate</li>
+        <li>JPA</li>
+        <li>JDBC</li>
+      </ul>
     </td>
-    <td align="center">
+
+    <td valign="top" width="33%">
       <h3>🎨 Frontend</h3>
-      React.js<br>
-      JavaScript<br>
-      TypeScript<br>
-      HTML<br>
-      CSS<br>
-      Bootstrap
+      <ul>
+        <li>React.js</li>
+        <li>JavaScript</li>
+        <li>TypeScript</li>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>Bootstrap</li>
+      </ul>
+    </td>
+
+    <td valign="top" width="33%">
+      <h3>🗄️ Database</h3>
+      <ul>
+        <li>MySQL</li>
+      </ul>
     </td>
   </tr>
 </table>
