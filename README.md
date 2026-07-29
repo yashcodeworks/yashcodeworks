@@ -12,36 +12,36 @@ I enjoy learning new technologies, solving problems, and developing scalable and
 
 <table>
   <tr>
-    <td valign="top" width="33%">
-      <h3>⚙️ Backend</h3>
-      <ul>
-        <li>Java</li>
-        <li>Spring Boot</li>
-        <li>Spring Security</li>
-        <li>REST APIs</li>
-        <li>Hibernate</li>
-        <li>JPA</li>
-        <li>JDBC</li>
-      </ul>
-    </td>
+    <th align="left" valign="top" width="33%">⚙️ Backend</th>
+    <th align="left" valign="top" width="33%">🎨 Frontend</th>
+    <th align="left" valign="top" width="33%">🗄️ Database</th>
+  </tr>
+  <tr>
+    <td align="left" valign="top">
 
-    <td valign="top" width="33%">
-      <h3>🎨 Frontend</h3>
-      <ul>
-        <li>React.js</li>
-        <li>JavaScript</li>
-        <li>TypeScript</li>
-        <li>HTML</li>
-        <li>CSS</li>
-        <li>Bootstrap</li>
-      </ul>
-    </td>
+• Java<br>
+• Spring Boot<br>
+• Spring Security<br>
+• REST APIs<br>
+• Hibernate<br>
+• JPA<br>
+• JDBC
 
-    <td valign="top" width="33%">
-      <h3>🗄️ Database</h3>
-      <ul>
-        <li>MySQL</li>
-      </ul>
+    </td>
+    <td align="left" valign="top">
+
+• React.js<br>
+• JavaScript<br>
+• TypeScript<br>
+• HTML<br>
+• CSS<br>
+• Bootstrap
+
+    </td>
+    <td align="left" valign="top">
+
+• MySQL
+
     </td>
   </tr>
 </table>
