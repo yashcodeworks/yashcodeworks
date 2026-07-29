@@ -13,12 +13,12 @@ I enjoy learning new technologies, solving problems, and developing scalable and
 | ⚙️ Backend | 🎨 Frontend | 🗄️ Database |
 |:---|:---|:---|
 | • Java | • React.js | • MySQL |
-| • Spring Boot | • JavaScript | |
+| • Spring Boot | • JavaScript | • MongoDB|
 | • Spring Security | • TypeScript | |
 | • REST APIs | • HTML | |
 | • Hibernate | • CSS | |
 | • JPA | • Bootstrap | |
-| • JDBC | | |
+| • JDBC | • Next.js| |
 ---
 
 ## 🚀 Featured Projects
