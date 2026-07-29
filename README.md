@@ -8,37 +8,26 @@ I enjoy learning new technologies, solving problems, and developing scalable and
 
 ---
 
-## 🛠️ Tech Stack
+<h2>🛠️ Tech Stack</h2>
 
-### Backend
-- Java
-- Spring Boot
-- Spring Security
-- REST APIs
-- Hibernate
-- JPA
-- JDBC
-
-### Frontend
-- React.js
-- JavaScript
-- TypeScript
-- HTML
-- CSS
-- Bootstrap
-
-### Database
-- MySQL
-
-### Tools & Technologies
-- Git
-- GitHub
-- Postman
-- Docker
-- AWS
-- IntelliJ IDEA
-- VS Code
-
+<table>
+  <tr>
+    <td align="center">
+      <h3>🗄️ Database</h3>
+      MySQL
+    </td>
+    <td align="center">
+      <h3>⚙️ Backend</h3>
+      Java • Spring Boot • Spring Security<br>
+      REST APIs • Hibernate • JPA • JDBC
+    </td>
+    <td align="center">
+      <h3>🎨 Frontend</h3>
+      React.js • JavaScript • TypeScript<br>
+      HTML • CSS • Bootstrap
+    </td>
+  </tr>
+</table>
 ---
 
 ## 🚀 Featured Projects
