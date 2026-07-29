@@ -1,16 +1,89 @@
-## Hi there 👋
+# Hi 👋, I'm Yash Patil
 
-<!--
-**yashcodeworks/yashcodeworks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Java Full Stack Developer
 
-Here are some ideas to get you started:
+I'm a passionate developer focused on building real-world web applications using Java, Spring Boot, React, and MySQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning new technologies, solving problems, and developing scalable and user-friendly applications.
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+- Java
+- Spring Boot
+- Spring Security
+- REST APIs
+- Hibernate
+- JPA
+- JDBC
+
+### Frontend
+- React.js
+- JavaScript
+- TypeScript
+- HTML
+- CSS
+- Bootstrap
+
+### Database
+- MySQL
+
+### Tools & Technologies
+- Git
+- GitHub
+- Postman
+- Docker
+- AWS
+- IntelliJ IDEA
+- VS Code
+
+---
+
+## 🚀 Featured Projects
+
+### 🏥 RxChain
+A full-stack medical supply chain application with multi-role authentication and healthcare management features.
+
+**Tech:** React, TypeScript, Spring Boot, Spring Security, JWT, MySQL
+
+### 🌐 Social Platform
+A full-stack social media platform with user authentication, JWT security, feed functionality, and a React-based frontend.
+
+**Tech:** Java, Spring Boot, Spring Security, JWT, React, MySQL
+
+### 👨‍💼 Employee Management System
+A full-stack employee management application with CRUD operations and REST API integration.
+
+**Tech:** Spring Boot, React, MySQL
+
+
+---
+
+## 📚 Currently Learning
+
+- Data Structures & Algorithms
+- System Design
+- Docker
+- AWS
+- Microservices
+- Advanced Spring Boot
+
+---
+
+## 🎯 Career Goal
+
+I'm currently looking for opportunities as a **Java Full Stack Developer / Spring Boot Developer** where I can contribute to real-world projects, improve my skills, and grow as a software engineer.
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 Portfolio: [My Portfolio](https://yashpatil.onrender.com/)
+- 💼 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/yash-patil-b3b25a364)
+- 📧 Email: Patilyash205@outlook.com
+
+---
+
+⭐ Thanks for visiting my profile!
